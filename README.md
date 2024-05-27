@@ -1,4 +1,4 @@
-This is a repository of completed data/computer science projects for Kohl Reddy, current student of computer and data science at Lake Forest College. 
+This is a repository of completed data/computer science projects for Kohl Reddy, current student of computer and data science at Lake Forest College. Below is a list of the projects and their descriptions:
 - **fifa_Analysis**: A statistical analysis of FIFA Ultimate Team overall player ratings across different FIFA games, specifically for Brazilian players. 
 - **spotify_Analysis**: A predictive analysis on song recommendations from Spotify.
 - **sudoku_Solver**: An interactive solver for API-generated sudoku puzzles. 
