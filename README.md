@@ -4,4 +4,5 @@ This is a repository of completed data/computer science projects for Kohl Reddy,
 - **sudoku_Solver**: An interactive solver for API-generated sudoku puzzles. 
 - **players_21 and players_22**: datasets for the fifa_Analysis project
 - **gsax_analysis**: A predictive analysis for goals saved above expected for goalies for the 2024-25 season based on statistics from the 2023-24 season.
-- **NLP analysis**: A predicitive model trained on reddit posts from the r/Hockey subreddit for topic detection. Dataset not included due to size restrictions. 
+- **NLP analysis**: A predicitive model trained on reddit posts from the r/Hockey subreddit for topic detection. Dataset not included due to size restrictions.
+- **Save project**: A predictive model for the result of a shot in a hockey game. Dataset not included due to size restrictions. 
